@@ -1,5 +1,8 @@
 _repo: Isaac-T.-Hopper--13-A-True-Life_11859
-_version: 0.0.1
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Child, Lydia Maria
@@ -13,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/2732
     wikipedia: http://en.wikipedia.org/wiki/Lydia_Child
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/11859#Isaac-T.-Hopper--13-A-True-Life
 gutenberg_issued: '2004-03-01'
 gutenberg_type: Text
 identifiers:
